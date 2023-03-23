@@ -1,0 +1,1 @@
+Coloquei todos os conteudos de estruturas de dados em uma pasta só por questão de praticidade
