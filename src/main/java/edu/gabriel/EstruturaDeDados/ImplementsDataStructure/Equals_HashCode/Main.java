@@ -1,4 +1,4 @@
-package edu.gabriel.EstruturaDeDados.Equals_HashCode;
+package edu.gabriel.EstruturaDeDados.ImplementsDataStructure.Equals_HashCode;
 
 
 import java.util.ArrayList;
